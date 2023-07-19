@@ -1,1 +1,0 @@
-* `mkdocs -h` - Print help message and exit.

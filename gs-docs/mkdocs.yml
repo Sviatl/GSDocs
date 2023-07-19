@@ -1,7 +1,18 @@
-site_name: GS Docs
+site_name: Изменения 1С
 
 nav:
-    - Home: index.md
-    - About: about.md
+    - Моя Бухгалтерия: 
+        - Изменения: index.md
+        - Новые участки: new-mb.md
+    - Моя Зарплата:
+        - Моя зарплата: zup.md
+    - АКомплекс:
+        - АКомплекс: akompl.md
+    - СКУД:
+        - Система контроля доступа: perco.md
+    - Резервное копирование:
+        - Резервное копирование: copy.md
 
-theme: readthedocs
+theme: 
+    name: readthedocs
+    locale: ru
